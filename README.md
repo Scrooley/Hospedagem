@@ -17,7 +17,7 @@ Projeto sobre uma programa para cadastrar hospedes. <br/>
 <br>
 
 <p align="center">
-  <img alt="hospedagem" src=".github/preview.png" width="37%">
+  <img alt="hospedagem" src=".github/preview.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
